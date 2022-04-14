@@ -3,9 +3,7 @@ const User = require('../models/User');
 const bcrypt = require('bcryptjs');
 
 // addPostToUser
-
 // deletePostFromUser
-
 
 function getNamebyID(req,res){
     console.log("why cannot"+req.params.id);

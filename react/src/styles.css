@@ -2,10 +2,12 @@
   font-family: sans-serif;
   text-align: center;
 }
+
 Form {
   text-align: left;
   margin: 3%;
 }
+
 .wrapper {
   min-height: 100%;
   left: 0;
@@ -14,10 +16,12 @@ Form {
   background-color: #00565c;
   background-image: url("https://www.transparenttextures.com/patterns/45-degree-fabric-light.png");
 }
+
 .comment {
   text-align: left;
   padding-left: 3%;
 }
+
 .avatar {
   float: left;
   margin-bottom: 6px;
@@ -29,13 +33,16 @@ Form {
   color: black;
   margin-left: 2%;
 }
+
 /* NavBar */
 .navbut {
   padding: 2%;
 }
+
 .navbrand {
   padding: 2%;
 }
+
 .navbar {
   max-height: 80px;
   color: #fff;
